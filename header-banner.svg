@@ -1,1 +1,66 @@
 
+<svg width="100%" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5F0A87"/>
+      <stop offset="50%" stop-color="#A4508B"/>
+      <stop offset="100%" stop-color="#F7797D"/>
+    </linearGradient>
+    <linearGradient id="term" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e1032"/>
+      <stop offset="100%" stop-color="#120a1f"/>
+    </linearGradient>
+    <clipPath id="reveal">
+      <rect x="180" y="0" width="0" height="70">
+        <animate attributeName="width" values="0;840;840;0;0" keyTimes="0;0.45;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .name { font-family: 'Trebuchet MS', Verdana, sans-serif; font-weight: 800; font-size: 52px; fill: #ffffff; text-anchor: middle; }
+    .desc { font-family: 'Trebuchet MS', Verdana, sans-serif; font-weight: 600; font-size: 19px; fill: #ffe8f5; text-anchor: middle; }
+    .code { font-family: 'Fira Code', Consolas, monospace; font-size: 21px; }
+    .kw   { fill: #ff9ecf; }
+    .var  { fill: #7ee7ff; }
+    .str  { fill: #ffe08a; }
+    .pln  { fill: #f2f2f2; }
+
+    .cursor { animation: blink 0.9s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .glyph { animation: drift 13s linear infinite; opacity: 0.4; font-family: 'Fira Code', Consolas, monospace; font-weight: 700; fill: #ffffff; }
+    @keyframes drift { 0% { transform: translateX(1300px); } 100% { transform: translateX(-150px); } }
+
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+  </style>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <text x="300" y="42" class="glyph" style="animation-delay:0s">&lt;/&gt;</text>
+  <text x="820" y="52" class="glyph" style="animation-delay:-4s">{ }</text>
+  <text x="1000" y="36" class="glyph" style="animation-delay:-9s">01</text>
+  <text x="560" y="40" class="glyph" style="animation-delay:-6.5s">AI</text>
+
+  <text x="600" y="102" class="name">ASHISH NAIKWADE</text>
+  <text x="600" y="136" class="desc">Full Stack Developer | AI-Powered Product Builder</text>
+
+  <rect x="140" y="168" width="920" height="70" rx="12" fill="url(#term)"/>
+  <circle cx="168" cy="184" r="6" class="dot-red"/>
+  <circle cx="188" cy="184" r="6" class="dot-yellow"/>
+  <circle cx="208" cy="184" r="6" class="dot-green"/>
+
+  <g clip-path="url(#reveal)">
+    <g transform="translate(0,168)">
+      <text x="180" y="45" class="code">
+        <tspan class="kw">const</tspan><tspan class="pln"> </tspan><tspan class="var">developer</tspan><tspan class="pln"> = </tspan><tspan class="str">"Ashish Naikwade"</tspan><tspan class="pln">;</tspan>
+      </text>
+    </g>
+  </g>
+
+  <rect class="cursor" x="0" y="192" width="12" height="24" fill="#7ee7ff">
+    <animate attributeName="x" values="180;1020;1020;180;180" keyTimes="0;0.45;0.7;0.72;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
