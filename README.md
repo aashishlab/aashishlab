@@ -300,5 +300,5 @@ open_to:
 
 *"Build things that solve real problems — the rest is just syntax."*
 
-
+<img src="./Black and Green Modern Talent Athletes LinkedIn Banner (2)" width="200"/>
 </div>
