@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=ASHISH%20NAIKWADE&fontSize=60&fontColor=b57bff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Product%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:5F0A87,50:A4508B,100:F7797D&height=280&section=header&text=ASHISH%20NAIKWADE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Product%20Builder&descAlignY=58&descSize=20&descColor=ffe8f5" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Walchand+College+of+Engineering;React+%7C+Node.js+%7C+MERN+%7C+AI%2FML+Integration;Building+AI-Powered+Web+%26+Desktop+Products;Hackathon+Builder+%7C+Student+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C724B1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Walchand+College+of+Engineering;React+%7C+Node.js+%7C+MERN+%7C+AI%2FML+Integration;Building+AI-Powered+Web+%26+Desktop+Products;Hackathon+Builder+%7C+Student+Leader" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,8 +39,9 @@ github: "aashishlab"
 education: "B.Tech CSE, Walchand College of Engineering, Sangli"
 focus:
   - Building full-stack MERN applications with real-world impact
-  - Integrating AI/LLM APIs  into practical, usable products
+  - Integrating AI/LLM APIs (Gemini) into practical, usable products
   - Computer vision & accessibility-focused desktop automation
+  - Rapid prototyping for hackathons and academic project competitions
 philosophy: "Build things that solve real problems — the rest is just syntax."
 ```
 
@@ -124,8 +125,7 @@ A multimodal desktop assistant enabling hands-free computer control through voic
 | **Performance** | Voice-based execution across 100+ Windows applications and website navigation |
 | **Security** | Local system-level automation with controlled command execution |
 | **Impact** | Delivered a fully hands-free experience via AI Mouse, gesture recognition, eye tracking, Air Canvas, OCR, object detection, and voice-controlled volume/system control |
-| **Repository** | [github.com/aashishlab/AI-Powered-Virtual-Assistant-for-Accessibility-System-Automation](https://github.com/aashishlab/AI-Powered-Virtual-Assistant-for-Accessibility-System-Automation) |
-|
+| **Repository** | Available on request / GitHub |
 
 Engineered a full computer-vision automation suite — including gesture-based mouse control, eye tracking, an Air Canvas drawing module, OCR text recognition, and object detection — layered with Gemini-powered natural language question answering and WhatsApp automation, all orchestrated through a lightweight Eel-based desktop UI.
 
@@ -185,6 +185,7 @@ Built a fully client-side auditing engine inspecting DOM structure, meta tags, l
 | 🥇 **First-Year Topper** | Ranked #1 among 800+ students, Puranmal Lahoti Government Polytechnic, Latur |
 | 🎓 **DIPEX 2025 Finalist** | Selected among projects across 6 academic departments for the Ideas Presentation Round |
 | 🏛️ **MSBTE State-Level Project Competition** | Represented the institute at the state-level round |
+| 🦈 **GitHub Pull Shark** | Achievement for merged pull request contributions |
 | 🗳️ **Elected General Secretary** | Student Council; led the annual gathering for 1,200+ students |
 | 💻 **Chief Coordinator, DreamTech 2K24** | Organized technical events and competitions with 150+ participants |
 
@@ -215,7 +216,17 @@ Built a fully client-side auditing engine inspecting DOM structure, meta tags, l
 
 ---
 
+## 💻 Coding Profiles
 
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Your%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aashishlab)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add%20Your%20Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/aashishlab)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Your%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/aashishlab)
+
+*Update the links above with your actual coding profile usernames.*
+
+</div>
 
 ---
 
@@ -305,6 +316,6 @@ open_to:
 
 *"Build things that solve real problems — the rest is just syntax."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F7797D,50:A4508B,100:5F0A87&height=150&section=footer" width="100%"/>
 
 </div>
