@@ -256,7 +256,6 @@ Built a fully client-side auditing engine inspecting DOM structure, meta tags, l
 
 <img src="https://raw.githubusercontent.com/aashishlab/aashishlab/output/github-contribution-grid-snake-dark.svg"/>
 
-*Requires a `aashishlab/aashishlab` profile repo with the snake-generation GitHub Action set up.*
 
 </div>
 
