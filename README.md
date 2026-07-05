@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5F0A87,50:A4508B,100:F7797D&height=260&section=header&text=ASHISH%20NAIKWADE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Product%20Builder&descAlignY=58&descSize=18&descColor=ffe8f5" width="100%"/>
+<img src="./header-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C724B1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Walchand+College+of+Engineering;React+%7C+Node.js+%7C+MERN+%7C+AI%2FML+Integration;Building+AI-Powered+Web+%26+Desktop+Products;Hackathon+Builder+%7C+Student+Leader" alt="Typing SVG" />
