@@ -1,11 +1,8 @@
 <div align="center">
-
 <img src="./header-banner.svg" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C724B1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Walchand+College+of+Engineering;React+%7C+Node.js+%7C+MERN+%7C+AI%2FML+Integration;Building+AI-Powered+Web+%26+Desktop+Products;Hackathon+Builder+%7C+Student+Leader" alt="Typing SVG" />
 </a>
-
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
