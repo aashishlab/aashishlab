@@ -300,6 +300,5 @@ open_to:
 
 *"Build things that solve real problems — the rest is just syntax."*
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7797D,50:A4508B,100:5F0A87&height=140&section=footer" width="100%"/>
 
 </div>
