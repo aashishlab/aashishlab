@@ -213,19 +213,7 @@ Built a fully client-side auditing engine inspecting DOM structure, meta tags, l
 
 ---
 
-## 💻 Coding Profiles
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Your%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aashishlab)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add%20Your%20Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/aashishlab)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Your%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/aashishlab)
-
-*Update the links above with your actual coding profile usernames.*
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
